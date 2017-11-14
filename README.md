@@ -17,7 +17,7 @@ Mi Proyecto es una Galeria de Imagenes osea una pagina donde puedas ver imagenes
 
 En esta ventana esta la pagina sin hacerle click a nada se puede ver en la parte superior el boton home que seria esta ventana, tambien esta la ventana Wallpapers.
 
-![alt text](/home/gabriel/Escritorio/Mi proyecto/Src/Captura de pantalla de 2017-11-07 09-50-12.png)
+![alt text](https://github.com/GabrielDalBoH/Pagina-Web-Galeria-de-Imagenes/blob/master/Src/Captura%20de%20pantalla%20de%202017-11-07%2010-04-49.png)
 
 ![alt text](/home/gabriel/Escritorio/Mi proyecto/Src/Captura de pantalla de 2017-11-07 09-50-08.png)
 
