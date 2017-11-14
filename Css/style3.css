@@ -65,7 +65,10 @@ img{
 	text-align: center;
 	padding-top: 12px;
 	position: absolute;
-	top: 30px;
-	right: 30px;
+	top: 40px;
+	right: 40px;
 	cursor: pointer;
+}
+.img data{
+    
 }
