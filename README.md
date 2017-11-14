@@ -22,7 +22,7 @@ En esta ventana esta la pagina sin hacerle click a nada se puede ver en la parte
 Esta ventana es cuando abrimos una imagen se crea un cuadro grande para ver mejor la imagen.
 
 
-![alt text](/home/gabriel/Escritorio/Mi proyecto/Src/Captura de pantalla de 2017-11-07 09-50-08.png)
+![alt text](https://github.com/GabrielDalBoH/Pagina-Web-Galeria-de-Imagenes/blob/master/Src/Captura%20de%20pantalla%20de%202017-11-07%2010-05-17.png)
 
 ![alt text](/home/gabriel/Escritorio/Mi proyecto/Src/Captura de pantalla de 2017-11-07 09-50-26.png)
 
