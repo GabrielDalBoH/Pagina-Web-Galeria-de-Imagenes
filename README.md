@@ -28,5 +28,7 @@ Esta es la ventana de zoom, con el mouse movemos un recuadro de un tamaño que p
 
 ![alt text](https://github.com/GabrielDalBoH/Pagina-Web-Galeria-de-Imagenes/blob/master/Src/Captura%20de%20pantalla%20de%202017-11-07%2010-06-54.png)
 
+Esta es la Ventana Wallpaper que como la principal pero con otras imagenes puestas. 
+
 
 
