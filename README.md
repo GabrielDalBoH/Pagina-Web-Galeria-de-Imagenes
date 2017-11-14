@@ -26,7 +26,7 @@ Esta ventana es cuando abrimos una imagen se crea un cuadro grande para ver mejo
 
 Esta es la ventana de zoom, con el mouse movemos un recuadro de un tamaño que podemos cambiar con la ruedita del mouse y vemos en otra ventana la misma imagen en el recuadro del mouse pero mas grande
 
-![alt text](/home/gabriel/Escritorio/Mi proyecto/Src/Captura de pantalla de 2017-11-07 09-50-26.png)
+![alt text](https://github.com/GabrielDalBoH/Pagina-Web-Galeria-de-Imagenes/blob/master/Src/Captura%20de%20pantalla%20de%202017-11-07%2010-06-54.png)
 
 
 
