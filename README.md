@@ -13,15 +13,22 @@ Mi Proyecto es una Galeria de Imagenes osea una pagina donde puedas ver imagenes
 ----
 
 ## Ventanas:
-![alt text](/home/gabriel/Escritorio/Mi proyecto/Src/Captura de pantalla de 2017-11-07 10-04-11.png)
+![alt text](https://github.com/GabrielDalBoH/Pagina-Web-Galeria-de-Imagenes/blob/master/Src/Captura%20de%20pantalla%20de%202017-11-07%2010-04-11.png)
 
 En esta ventana esta la pagina sin hacerle click a nada se puede ver en la parte superior el boton home que seria esta ventana, tambien esta la ventana Wallpapers.
 
-![alt text](/home/gabriel/Escritorio/Mi proyecto/Src/Captura de pantalla de 2017-11-07 09-50-12.png)
+![alt text](https://github.com/GabrielDalBoH/Pagina-Web-Galeria-de-Imagenes/blob/master/Src/Captura%20de%20pantalla%20de%202017-11-07%2010-04-49.png)
 
-![alt text](/home/gabriel/Escritorio/Mi proyecto/Src/Captura de pantalla de 2017-11-07 09-50-08.png)
+Esta ventana es cuando abrimos una imagen se crea un cuadro grande para ver mejor la imagen.
 
-![alt text](/home/gabriel/Escritorio/Mi proyecto/Src/Captura de pantalla de 2017-11-07 09-50-26.png)
+
+![alt text](https://github.com/GabrielDalBoH/Pagina-Web-Galeria-de-Imagenes/blob/master/Src/Captura%20de%20pantalla%20de%202017-11-07%2010-05-17.png)
+
+Esta es la ventana de zoom, con el mouse movemos un recuadro de un tamaño que podemos cambiar con la ruedita del mouse y vemos en otra ventana la misma imagen en el recuadro del mouse pero mas grande
+
+![alt text](https://github.com/GabrielDalBoH/Pagina-Web-Galeria-de-Imagenes/blob/master/Src/Captura%20de%20pantalla%20de%202017-11-07%2010-06-54.png)
+
+Esta es la Ventana Wallpaper que es como la principal pero con otras imagenes puestas. 
 
 
 
