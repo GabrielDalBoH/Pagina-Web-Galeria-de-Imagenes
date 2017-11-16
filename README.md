@@ -8,7 +8,7 @@
 
 ### Descripcion:
 
-Mi Proyecto es una Galeria de Imagenes, una pagina donde puedas ver imagenes que ya estan puestas o subir las que uno quiera. Elegi esta idea porque me gusta usar las galerias de internet ya que ahi uso imagenes para dibujar. Las imagenes estan ordenadas por categorias de la pagina para que sea mas comodo ver las imagenes que tiene, ejemplo: hay una categoria para imagenes de fondo de pantalla, imagenes de autos, comida, etc. Utilizo jquery con el efecto lightbox que hacer un recuadro mas grande para cada imagen, tambien utilizo elevatezoom que sirve para hacer el zoom a las imagenes, utilizo bootstap para la parte estetica de la pagina para que se vea mejor.
+Mi Proyecto es una Galeria de Imagenes, una pagina donde puedas ver imagenes que ya estan puestas o subir las que uno quiera. Elegi esta idea porque me gusta usar las galerias de internet ya que ahi uso imagenes para dibujar. Las imagenes estan ordenadas por categorias de la pagina para que sea mas comodo ver las imagenes que tiene, ejemplo: hay una categoria para imagenes de fondo de pantalla, imagenes de autos, comida, etc. Utilizo jquery con el efecto lightbox que hacer un recuadro mas grande para cada imagen, tambien utilizo elevatezoom que sirve para hacer el zoom a las imagenes, utilizo bootstrap para la parte estetica de la pagina para que se vea mejor.
 
 ----
 
