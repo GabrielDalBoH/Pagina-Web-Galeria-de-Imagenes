@@ -30,10 +30,10 @@ Esta es la ventana de zoom, con el mouse movemos un recuadro de un tamaño que p
 Esta es la Ventana Wallpaper que es como la principal pero con otras imagenes puestas. 
 
 ### Dependencias:
-*Jquery: https://jquery.com/.
-*Bootstrap: https://getbootstrap.com/.
-*lightbox: http://lokeshdhakar.com/projects/lightbox2/.
-*elevatezoom: http://www.elevateweb.co.uk/image-zoom.
+* Jquery: https://jquery.com/.
+* Bootstrap: https://getbootstrap.com/.
+* Lightbox: http://lokeshdhakar.com/projects/lightbox2/.
+* Elevatezoom: http://www.elevateweb.co.uk/image-zoom.
 
 
 
