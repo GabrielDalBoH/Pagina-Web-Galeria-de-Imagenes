@@ -2,9 +2,9 @@
 -----
 -----
 
-### Integrante:Gabriel Dal Bó
+### Integrante:Gabriel Dal Bó.
 
-### Curso: 5°C
+### Curso: 5°C.
 
 ### Descripcion:
 
