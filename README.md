@@ -12,7 +12,7 @@ Mi Proyecto es una Galeria de Imagenes, una pagina donde puedas ver imagenes que
 
 ----
 
-## Ventanas:
+### Ventanas:
 ![alt text](https://github.com/GabrielDalBoH/Pagina-Web-Galeria-de-Imagenes/blob/master/Src/Captura%20de%20pantalla%20de%202017-11-07%2010-04-11.png)
 
 En esta ventana esta la pagina sin hacerle click a nada se puede ver en la parte superior el boton home que seria esta ventana, tambien esta la ventana Wallpapers.
@@ -29,12 +29,11 @@ Esta es la ventana de zoom, con el mouse movemos un recuadro de un tamaño que p
 
 Esta es la Ventana Wallpaper que es como la principal pero con otras imagenes puestas. 
 
-
-Dependencias:
-Jquery: https://jquery.com/.
-Bootstrap: https://getbootstrap.com/.
-lightbox: http://lokeshdhakar.com/projects/lightbox2/.
-elevatezoom: http://www.elevateweb.co.uk/image-zoom.
+### Dependencias:
+*Jquery: https://jquery.com/.
+*Bootstrap: https://getbootstrap.com/.
+*lightbox: http://lokeshdhakar.com/projects/lightbox2/.
+*elevatezoom: http://www.elevateweb.co.uk/image-zoom.
 
 
 
