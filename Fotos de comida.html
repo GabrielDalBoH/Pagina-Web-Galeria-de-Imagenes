@@ -45,8 +45,8 @@
                         <input type="button" value="Amarillo" class="Amarillo">
                     </form>
                 <form class="form-inline my-2 my-lg-0">
-                    <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-                    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                    <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" id="search"> <p class="navbar-btn"><a href="javascript:buscar()">Buscar</a></p>
+                    
                 </form>
 
             </div>
@@ -58,20 +58,35 @@
 
 
 
-        <div class="container">
+        <div class="container" id="cuerpito">
             <div class="item">
                 <img id="zoom_01"src="./Static/Comida/imagen.jpg" alt="" class="imagen" data="./Static/Comida/Larga/imagen.jpg">
+                <div class="card-body">
+                        <h4 class="card-title"> Comida Dulces</h4>
+                        </div>
+                    
 
             </div>
             <div class="item">
                 <img src="./Static/Comida/imagen2.jpg" alt="" class="imagen"
                      data="./Static/Comida/Larga/imagen2.jpg">
+                <div class="card-body">
+                        <h4 class="card-title">Comida Frutas</h4>
+                        </div>
+                    
             </div>
             <div class="item">
                 <img src="Static/Comida/imagen3.jpg" alt="" class="imagen" data="./Static/Comida/Larga/imagen3.jpg">
+                <div class="card-body">
+                        <h4 class="card-title"> Comida Hamburguesa</h4>
+                        </div>
+                    
             </div>
             <div class="item">
                 <img src="Static/Comida/imagen4.jpg" alt="" class="imagen" data="./Static/Comida/Larga/imagen4.jpg">
+                <div class="card-body">
+                        <h4 class="card-title"> Comida Donas</h4>
+                        </div>
             </div>
 
 
@@ -95,6 +110,7 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
         <script  src="js/jquery.min.js"></script>
         <script  src="js/jquery.elevatezoom.min.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/4.6.2/firebase.js"></script>
         <script src="js/js.js"></script>
 
     </body>

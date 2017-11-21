@@ -29,10 +29,11 @@
                         
                         
                     </ul>
+                    
                     <header>Elige un color</header> 
                     <form> 
-                        <input type="button" value="Azul" class="azul"> 
-                        <input type="button" value="Blanco" class="blanco"> 
+                        <input type="button" value="Azul" class="Azul"> 
+                        <input type="button" value="Blanco" class="Blanco"> 
                         <input type="button" value="Rojo" class="Rojo">
                         <input type="button" value="Verde"
                         class="Verde">
@@ -40,28 +41,46 @@
                         class="Negro">
                         <input type="button" value="Amarillo" class="Amarillo">
                     </form>
+                    
                     <form class="form-inline my-2 my-lg-0">
-                        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-                        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" id="search"> <p class="navbar-btn"><a href="javascript:buscar()">Buscar</a></p>
+                        
                     </form>
 
                 </div>
             </nav>
+            
 
-        <div class="container">
+        <div class="container" id="cuerpito">
                 <div class="item">
                     <img id="zoom_01" src="./Static/Autos/imagen.jpg" alt="" class="imagen" data="./Static/Autos/Larga/imagen.jpg">
+                    <div class="card-body">
+                        <h4 class="card-title">Auto de lujo</h4>
+                        </div>
+                   
 
                 </div>
                 <div class="item">
                     <img src="./Static/Autos/rayo mcqueen.jpg" alt="" class="imagen"
                          data="./Static/Autos/Larga/rayo mcqueen.jpg">
+                    <div class="card-body">
+                        <h4 class="card-title">Auto El Rayo Mcqueen</h4>
+                        </div>
+                    
                 </div>
                 <div class="item">
                     <img src="Static/Autos/imagen2.jpg" alt="" class="imagen" data="./Static/Autos/Larga/imagen2.jpg">
+                    <div class="card-body">
+                        <h4 class="card-title"> Auto Dodge Challenger</h4>
+                        </div>
+                    
                 </div>
                 <div class="item">
                     <img src="Static/Autos/mach cinco.jpg" alt="" class="imagen" data="./Static/Autos/Larga/mach cinco.jpg">
+                    <div class="card-body">
+                        <h4 class="card-title"> Auto Mach Cinco</h4>
+                        </div>
+                    
                 </div>
 
 
@@ -85,7 +104,9 @@
             <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
             <script  src="js/jquery.min.js"></script>
             <script  src="js/jquery.elevatezoom.min.js"></script>
+            <script src="https://www.gstatic.com/firebasejs/4.6.2/firebase.js"></script>
             <script src="js/js.js"></script>
+            
 
         </body>
     </html>
