@@ -1,4 +1,4 @@
-# Pagina-Galeria-de-Imagenes
+# Pagina Galeria de Imagenes
 -----
 -----
 
