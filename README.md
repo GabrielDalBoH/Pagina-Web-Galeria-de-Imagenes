@@ -52,6 +52,7 @@ Esta es la ventana Gifs tiene las mismas funciones que la ventana Wallpaper. Tie
 
 Esta es la ventana de busqueda cuando escribis el nombre de una imagen en el recuadro de texto, aparecen imagenes que compartan el mismo nombre o uno parecido.
 
+----
 
 ### Dependencias:
 
