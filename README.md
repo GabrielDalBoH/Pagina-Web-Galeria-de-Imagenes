@@ -8,13 +8,13 @@
 
 ## Desarrollador: Gabriel Dal Bó.
 
-## Descripcion:
+## Descripcion
 
   Mi Proyecto es una Galeria de Imagenes, una pagina donde puedas ver imagenes que ya estan puestas o subir las que uno quiera. Elegi esta idea porque me gusta usar las galerias de internet ya que ahi uso imagenes para dibujar. Las imagenes estan ordenadas por categorias de la pagina para que sea mas comodo ver las imagenes que tiene, ejemplo: hay una categoria para imagenes de fondo de pantalla, imagenes de autos, comida, etc. Utilizo Jquery con el efecto lightbox que hacer un recuadro mas grande para cada imagen, tambien utilizo elevatezoom que es un efecto de Jquery que sirve para hacer el zoom a las imagenes, utilizo bootstrap para la parte estetica de la pagina para que se vea mejor. Tambien tiene un recuadro de texto para buscar las imagenes que estan en la pagina por su nombre.
 
 ----
 
-## Ventanas:
+## Ventanas
 ![alt text](https://github.com/GabrielDalBoH/Pagina-Web-Galeria-de-Imagenes/blob/master/Src/Captura%20de%20pantalla%20de%202017-11-21%2015-00-01.png).
 
   En esta ventana esta la pagina sin hacerle click a nada se puede ver en la parte superior el boton Home que seria esta ventana. En la parte superior derecha se puede ver muchos botones para cambiar de color el fondo y al lado de estos botones esta el cuadro de texto que sirve para buscar las imagenes de la pagina por su nombre.
