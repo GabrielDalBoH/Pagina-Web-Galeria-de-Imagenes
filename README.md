@@ -55,15 +55,15 @@ Esta es la ventana de busqueda cuando escribis el nombre de una imagen en el rec
 
 ### Dependencias:
 
-* Jquery: https://jquery.com/. jQuery es una biblioteca multiplataforma de JavaScript, que permite simplificar la manera de interactuar con los documentos HTML.
+* Jquery: (https://jquery.com/). jQuery es una biblioteca multiplataforma de JavaScript, que permite simplificar la manera de interactuar con los documentos HTML.
 
-* Bootstrap: https://getbootstrap.com/. Bootstrap es un framework o conjunto de herramientas de Código abierto para diseño de sitios y aplicaciones web.
+* Bootstrap: (https://getbootstrap.com/). Bootstrap es un framework o conjunto de herramientas de Código abierto para diseño de sitios y aplicaciones web.
 
-* Lightbox: http://lokeshdhakar.com/projects/lightbox2/. Lightbox, y el más nuevo Lightbox 2, es una aplicación hecha en JavaScript usando el modelo de modal dialogs, En una página con Lightbox, al hacer clic en una imagen es ampliada en una ventana denominada, ventana Lightbox.
+* Lightbox: (http://lokeshdhakar.com/projects/lightbox2/). Lightbox, y el más nuevo Lightbox 2, es una aplicación hecha en JavaScript usando el modelo de modal dialogs, En una página con Lightbox, al hacer clic en una imagen es ampliada en una ventana denominada, ventana Lightbox.
 
-* Elevatezoom: http://www.elevateweb.co.uk/image-zoom. Es una aplicacion hecha para javascript que permite hacer zoom a las imagenes con un recuadro que se mueve con el mouse.
+* Elevatezoom: (http://www.elevateweb.co.uk/image-zoom). Es una aplicacion hecha para javascript que permite hacer zoom a las imagenes con un recuadro que se mueve con el mouse.
 
-* Firebase: https://firebase.google.com/. Firebase es una plataforma para el desarrollo de aplicaciones web y aplicaciones móviles.
+* Firebase: (https://firebase.google.com/). Firebase es una plataforma para el desarrollo de aplicaciones web y aplicaciones móviles.
 
 
 
