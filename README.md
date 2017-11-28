@@ -43,7 +43,7 @@
 
   Esta es la pagina Fotos de Comida, tiene las mismas funciones que la pagina Wallpaper. Tiene un boton que te puede hacer volver a la ventana Home.
 
-![alt text](https://github.com/GabrielDalBoH/Pagina-Web-Galeria-de-Imagenes/blob/master/Src/Captura%20de%20pantalla%20de%202017-11-21%2015-03-02.png).
+![alt text](https://github.com/GabrielDalBoH/Pagina-Web-Galeria-de-Imagenes/blob/master/Src/Captura%20de%20pantalla%20de%202017-11-28%2008-10-58.png).
 
   Esta es la pagina Gifs tiene las mismas funciones que la ventana Wallpaper. Tiene un boton que te puede hacer volver a la Pagina Home. En esta ventana no se puede hacer zoom a las imagenes. 
 
