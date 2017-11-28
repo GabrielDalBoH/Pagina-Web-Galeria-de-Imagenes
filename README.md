@@ -10,11 +10,9 @@
 
 ## Materia: Sistemas de Informacion
 
-## Objetivo: 
-
-
+## Objetivo
  
-  
+  Mi objetivo es dar una posibilidad de que la gente pueda ver imagenes que quiza una persona no vio y le sirvieron para un trabajo de la escuela o para lo que necesite,que tenga a disposicion muchas imagenes para elegir y que pueda ver sin ningun problema.
 
 ## Descripcion
 
@@ -25,7 +23,7 @@
 ## Ventanas
 ![alt text](https://github.com/GabrielDalBoH/Pagina-Web-Galeria-de-Imagenes/blob/master/Src/Captura%20de%20pantalla%20de%202017-11-21%2015-00-01.png).
 
- * En esta ventana esta la pagina sin hacerle click a nada se puede ver en la parte superior el boton Home que seria esta ventana. En la parte superior derecha se puede ver muchos botones para cambiar de color el fondo y al lado de estos botones esta el cuadro de texto que sirve para buscar las imagenes de la pagina por su nombre.
+ * En esta ventana esta la pagina sin hacerle click a nada se puede ver en la parte superior el boton Home que seria esta ventana. En la parte superior derecha se puede ver muchos botones para cambiar de color el fondo de la pagina y al lado de estos botones esta el cuadro de texto que sirve para buscar las imagenes de la pagina por su nombre.
 
 ![alt text](https://github.com/GabrielDalBoH/Pagina-Web-Galeria-de-Imagenes/blob/master/Src/Captura%20de%20pantalla%20de%202017-11-21%2015-00-24.png)
 
