@@ -24,6 +24,11 @@
 ![alt text](https://github.com/GabrielDalBoH/Pagina-Web-Galeria-de-Imagenes/blob/master/Src/Captura%20de%20pantalla%20de%202017-11-21%2015-00-01.png).
 
  * En esta ventana esta la pagina sin hacerle click a nada se puede ver en la parte superior el boton Home que seria esta ventana. En la parte superior derecha se puede ver muchos botones para cambiar de color el fondo de la pagina y al lado de estos botones esta el cuadro de texto que sirve para buscar las imagenes de la pagina por su nombre.
+ 
+ 
+ ![alt text](https://github.com/GabrielDalBoH/Pagina-Web-Galeria-de-Imagenes/blob/master/Src/Captura%20de%20pantalla%20de%202017-11-28%2009-35-31.png)
+ 
+ * Arriba de todo en la ventana Home esta el boton para iniciar sesion con tu usuario.
 
 ![alt text](https://github.com/GabrielDalBoH/Pagina-Web-Galeria-de-Imagenes/blob/master/Src/Captura%20de%20pantalla%20de%202017-11-21%2015-00-24.png)
 
