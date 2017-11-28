@@ -1,4 +1,4 @@
-# Pagina Galeria de Imagenes
+# Pagina Galeria de Imagenes (Proyecto HTML CSS Javascript)
 -----
 -----
 
@@ -7,6 +7,8 @@
 ## Curso: 5°C.
 
 ## Desarrollador: Gabriel Dal Bó.
+
+### Materia: Sistemas de Informacion
 
 ## Descripcion
 
